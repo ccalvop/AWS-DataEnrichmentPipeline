@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/ccalvop/AWS-DataEnrichmentPipeline/assets/126183973/aa5f6aea-a4d2-46c3-9ffe-f818086ba3f2" />
+</p>
+
 # AWS-DataEnrichmentPipeline
 
 ![diagram](https://github.com/ccalvop/AWS-DataEnrichmentPipeline/assets/126183973/0032b83a-9d8e-4aee-a9c1-02be8c41c34e)
