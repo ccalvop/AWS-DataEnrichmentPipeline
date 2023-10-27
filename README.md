@@ -44,5 +44,3 @@ Este proyecto combina la analítica de datos con la automatización de servicios
 ***
 ![underconstruction_ccalvop](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/b9de3820-25a3-45dc-ab38-e65d96460d83)
 
-
-TIME - 2023-10-27 09:06:30
